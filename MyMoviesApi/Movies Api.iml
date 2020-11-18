@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javax.json:javax.json-api:1.1.4" level="project" />
+    <orderEntry type="library" name="javax.persistence:javax.persistence-api:2.2" level="project" />
+    <orderEntry type="library" exported="" name="jdbc" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/build" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/demo" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/demo/scores/java/client" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/demo/scores/java/common" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/demo/scores/java/server" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/demo/simple" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/demo/vtis/java" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.client" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.commons" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.engine" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.optionaltools" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.runner" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.server" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.tests" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/org.apache.derby.tools" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/pptesting" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/storeless" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/java/stubs/felix" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/maven2" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/plugins/eclipse/org.apache.derby.ui/src" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/tools/l10n" />
+          <root url="file://$APPLICATION_HOME_DIR$/db-derby-10.15.2.0-src/tools/release/jirasoap/src/main/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$APPLICATION_HOME_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$APPLICATION_HOME_DIR$/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$APPLICATION_HOME_DIR$/lib" recursive="false" />
+        <jarDirectory url="file://$APPLICATION_HOME_DIR$/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/derby-10.15.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/derbyshared-10.15.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
